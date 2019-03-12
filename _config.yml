@@ -54,4 +54,4 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman

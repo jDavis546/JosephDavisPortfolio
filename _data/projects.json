@@ -1,0 +1,43 @@
+[
+  {
+    "category": "Websites",
+    "img": "img/portfolio/work1_232x190.png",
+    "title": "React Phone Storefort",
+    "content": "A storefrot for smart phone bootstrapped with Create React App.",
+    "linkto": "https://react-phone-storefort.netlify.com"
+ },
+
+ {
+   "category": "Websites",
+   "img": "img/portfolio/work2_232x190.png",
+   "title": "Github Finder",
+   "content": "A Github user finder build with vanilla JavaScript and the fetch API.",
+   "linkto": "https://elastic-lewin-a1f9a1.netlify.com/"
+ },
+
+ {
+   "category": "Websites",
+   "img": "img/portfolio/work3_232x190.png",
+   "title": "Fictional University",
+   "content": "A fictional university build with wordpress and php",
+   "linkto": "portfolio.html"
+ },
+ {
+   "category": "design",
+   "img": "img/portfolio/work4_232x190.png",
+   "title": "Modern Portfolio",
+   "content": "A modern responsive web portfolio build with SCSS",
+   "linkto": "https://thirsty-leavitt-2a073a.netlify.com"
+
+ },
+
+ {
+   "category": "design",
+   "img": "img/portfolio/work5_232x190.png",
+   "title": "Innovation Cloud",
+   "content": "A responsive Conference website build purely in HTML and CSS",
+   "linkto": "portfolio.html"
+ },
+
+
+]

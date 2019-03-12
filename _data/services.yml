@@ -1,0 +1,24 @@
+
+- icon: "ion-image"
+  title: "Web Design"
+  content: "UX-design, Responsive design, Search Engine Optimization, Adobe xd, Photoshop, Gimp incididunt ut"
+
+- icon: "ion-social-html5"
+  title: "Fornt-end Development"
+  content: "HTML, CSS, javascript jQuery, Json, React/Redux visual studio,  visual studio code, dreamweaver"
+
+- icon: "ion-ios-browsers"
+  title: "Back-end Development"
+  content: "PHP MYSQ/NOSQL Python, Wordpress, drupal, joomla ,Ruby on Rails, .Net Core"
+
+- icon: "ion-leaf"
+  title: "Full-stack Development"
+  content: "lamp stack, mean stack, wamp stack, Jam Stack"
+
+# - icon: "ion-ios-game-controller-b"
+#   title: "Game Development"
+#   content: "Unity3d, Unreal, Godot, Blender"
+#
+# - icon: "ion-android-apps"
+#   title: "mobile Development"
+#   content: "Androd studio, Java, Kotlin, Jam Stack"

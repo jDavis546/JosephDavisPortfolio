@@ -1,23 +1,23 @@
 
 - icon: "ion-image"
   title: "Web Design"
-  content: "UX-design, Responsive design, Search Engine Optimization, Adobe xd, Photoshop, Gimp incididunt ut"
+  content: "Our web design services focus on creating visually stunning and user-friendly websites that help businesses stand out online. Our team of experts specialize in UX-design, ensuring that your website is intuitive and easy to navigate for visitors. We also specialize in responsive design, ensuring that your website looks great on any device. Our web design services also include Search Engine Optimization (SEO) to help your website rank higher on search engines. Our team is proficient in various design tools such as Adobe XD, Photoshop, and GIMP. With our web design services, you can expect a website that not only looks great, but also functions seamlessly and effectively for your business. "
 
 - icon: "ion-social-html5"
   title: "Fornt-end Development"
-  content: "HTML, CSS, javascript jQuery, Json, React/Redux visual studio,  visual studio code, dreamweaver"
+  content: "Our front-end development services are focused on creating visually appealing and engaging websites that provide a seamless user experience. Our team of experts are well-versed in various front-end technologies such as HTML, CSS, JavaScript, jQuery, JSON, React/Redux. We use popular front-end development tools such as Visual Studio, Visual Studio Code and Dreamweaver to build dynamic and interactive websites that are optimized for performance. Our front-end development services are designed to provide your business with the best possible online presence, through the use of clean, modern code and the latest web technologies."
 
 - icon: "ion-ios-browsers"
   title: "Back-end Development"
-  content: "PHP MYSQ/NOSQL Python, Wordpress, drupal, joomla ,Ruby on Rails, .Net Core"
+  content: "Our back-end services offer a wide range of options for businesses looking to enhance their online presence and improve their website's performance. Our team of experts are proficient in various programming languages including PHP, MYSQL, NOSQL, Python, Ruby on Rails and .Net Core. We specialize in popular content management systems such as Wordpress, Drupal, and Joomla. Our back-end solutions are tailored to meet the specific needs of your business and can include database design and management, API development, server-side scripting, and much more. Whether you are looking to improve the scalability of your website, or to add new features, our back-end services can help you achieve your goals."
 
 - icon: "ion-leaf"
   title: "Full-stack Development"
-  content: "lamp stack, mean stack, wamp stack, Jam Stack"
+  content: "Our full-stack development services provide businesses with a complete solution for their web development needs. We specialize in various stack technologies such as LAMP stack, MEAN stack, WAMP stack and JAM stack. Our team of experts have the knowledge and experience to work with these stack technologies to build robust and scalable web applications. We use an Agile methodology to ensure the development process is efficient and that the final product meets all the requirements and specifications of our clients. Our full-stack development services can help your business improve its online presence, increase its visibility and achieve its goals."
 
 # - icon: "ion-ios-game-controller-b"
 #   title: "Game Development"
-#   content: "Unity3d, Unreal, Godot, Blender"
+#   content: "Our game development services provide businesses with a unique way to engage with their audience and stand out in the competitive digital landscape. Our team of experts are proficient in various game development technologies such as Unity3D, Unreal, Godot, and Blender. We specialize in creating immersive and engaging games for various platforms including mobile, console, and PC. We use cutting-edge tools and techniques to ensure that our games are of the highest quality, with stunning graphics and captivating gameplay. Our game development services can help your business tap into the lucrative world of gaming and reach new audiences."
 #
 # - icon: "ion-android-apps"
 #   title: "mobile Development"
